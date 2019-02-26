@@ -1,7 +1,7 @@
 #The Exercises from Coursera(MIPT & Mail.ru)
 
-ScreenSaver.py - the exercise for train to refactoring code
+ScreenSaver.py - the exercise of refactoring screensaver code
 
-test_factorization.py - the exercise when I needed to write the tests for factorize function.
+test_factorization.py - the exercise of writing tests for factorize function
 
 
